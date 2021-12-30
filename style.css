@@ -728,6 +728,10 @@ header .navbar ul li a:hover{
     html{
         font-size: 55%;
     }
+    
+        header .navbar ul li a{
+        font-size: 1.4rem;
+    }
 
 }
 
